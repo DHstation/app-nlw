@@ -8,7 +8,7 @@ como um lego, você vai utilizar peças para criar algoritmos, ou seja, para res
 - comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
-- Tipos de dados (strig, number, array)
+- Tipos de dados (string, number, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
