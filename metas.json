@@ -1,10 +1,14 @@
 [
   {
-    "value": "Tomar 3L de água por dia",
+    "value": "Andar 20 minutos todos os dias",
+    "checked": false
+  },
+  {
+    "value": "programar",
     "checked": true
   },
   {
-    "value": "Andar 20 minutos todos os dias",
+    "value": "digitar todos os dias",
     "checked": true
   }
 ]
